@@ -60,8 +60,8 @@ window.TIMBRE_CONFIG = {
        Redondeado a 3 decimales: lo que queda publicado es la manzana
        y no la puerta. El redondeo corre el punto unos 37 m, que el
        radio de 200 m absorbe de sobra. */
-    lat: -34.595,
-    lon: -58.414,
+    lat: -34.642,
+    lon: -58.525,
     radioMetros: 200,
     modo: 'bloquear',
     segundosEspera: 15,
