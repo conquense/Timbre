@@ -25,7 +25,7 @@ window.TIMBRE_CONFIG = {
   destinos: [
     {
       id: 'casa',
-      nombre: 'Casa',
+      nombre: 'Carhue 215',
       detalle: 'Timbre principal',
       topic: 'timbreqr-6b2df903cb3470b6-carhue215'
     }
