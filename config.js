@@ -25,14 +25,14 @@ window.TIMBRE_CONFIG = {
   destinos: [
     {
       id: 'casa',
-      nombre: 'Carhue 215',
+      nombre: 'Casa',
       detalle: 'Timbre principal',
       topic: 'timbreqr-6b2df903cb3470b6-carhue215'
     }
     // Ejemplo para sumar más (descomentá y cambiá el texto):
      {
        id: 'erika',
-       nombre: 'erika',
+       nombre: 'Erika',
        detalle: 'Suena solo en su celular',
        topic: 'timbreqr-6b2df903cb3470b6-erika'
      }
@@ -71,7 +71,7 @@ window.TIMBRE_CONFIG = {
 
   /* Textos que aparecen en la notificación del celular */
   textos: {
-    tituloPush: '🔔 Timbre Carhue 215',
+    tituloPush: '🔔 Timbre',
     cuerpoPush: 'Hay alguien en la puerta',
     avisoPush: 'Pasé y no había nadie'
   }
